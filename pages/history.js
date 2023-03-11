@@ -28,7 +28,7 @@ const history = () => {
                             <a href="#">
                                 <img
                                     class="p-8 rounded-t-lg"
-                                    src="https://media.istockphoto.com/id/626673214/photo/interior-of-the-hotel-bedroom.jpg?s=612x612&w=0&k=20&c=Stj0mw0U58qVFeYpXQTSvD7iDHjsBdSiC8ScNqwIS5A="
+                                    src="https://media.istockphoto.com/id/843823656/photo/hotel-room.jpg?s=612x612&w=0&k=20&c=8-ZNA52e5GlPuuQPXqZRgsTO9WRZwZgFtDotyC6CGHY="
                                     alt="product image"
                                 />
                             </a>

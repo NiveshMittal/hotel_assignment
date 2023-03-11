@@ -24,7 +24,7 @@ const remove = () => {
             <NavBar />
             <div className='grid grid-cols-3 gap-8 m-8' >
                 {data.map((card) => (
-                    <div key={card.id} className="bg-cyan-100 shadow-md rounded-md p-4">
+                    <div key={card.id} className="bg-rose-100 shadow-md rounded-md p-4">
                         <h2 className="text-lg font-medium">Room No. {card.roomNumber}</h2>
                         <p className="text-gray-500 mt-2">Registered email: {card.email}</p>
                         <p className="text-gray-500 mt-2">Room Type: {card.roomType} </p>

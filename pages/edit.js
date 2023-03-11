@@ -75,14 +75,14 @@ export default function edit() {
     return (
         <div >
             <Navbar />
-            <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-blue-400 to-purple-500">
+            <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-red-400 to-gray-500">
                 <div className="w-full max-w-md p-8 bg-white rounded-md shadow-lg">
                     <div className="mx-auto max-w-2xl text-center mb-5">
                         <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-                            EditBooking
+                            Edit Your Booking
                         </h2>
                         <p className="mt-2 text-lg leading-8 text-gray-600">
-                            ✎ Update Your Hotel Booking Details Here ✎
+                            --Update Your Hotel Booking Details Here--
                         </p>
                     </div>
                     <form onSubmit={editbook}>

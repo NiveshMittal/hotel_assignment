@@ -76,7 +76,7 @@ export default function Home() {
   return (
     <div >
       <Navbar />
-      <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-blue-400 to-purple-500">
+      <div className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-r from-red-400 to-gray-500">
         <div className="w-full max-w-md p-8 bg-white rounded-md shadow-lg">
           <h2 className="text-2xl font-semibold text-gray-700 mb-6">Select Room</h2>
           <form onSubmit={book}>
